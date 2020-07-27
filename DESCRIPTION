@@ -23,7 +23,7 @@ Authors@R:
       person("Tobias", "Hoch", role = c("ctb")))
 License: GPL (>= 2)
 Depends:
-    R (>= 4.0),
+    R (>= 3.6),
     EBImage,
     SingleCellExperiment,
     methods
